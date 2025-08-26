@@ -62,9 +62,9 @@ Users can upload their data, and our system will automatically:
 
 ## 🛠️ Contributions
 
-- **Bilal Rukundi** – Team Lead, Backend architecture & Flask APIs
-- **Mit Mer** – Frontend (HTML, CSS, JS)
+- **Bilal Rukundi** – Team Lead, Frontend architecture
+- **Mit Mer** – Documentation & Testing
 - **Mohit Shukla** – Presentation and ML architecture
-- **Vedant Pardeshi** – Documentation & Testing
+- **Vedant Pardeshi** – Backend and FastAPI setup
 
 ---
