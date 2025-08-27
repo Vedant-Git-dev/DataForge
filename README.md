@@ -14,7 +14,7 @@ Users can upload their data, and our system will automatically:
 
 ### 🔹 Backend
 
-- **Flask (Python)** – REST API framework
+- **FastAPI (Python)** – REST API framework
 - **Pandas** – Data processing & cleaning
 
 ### 🔹 Frontend
